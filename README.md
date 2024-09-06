@@ -57,7 +57,6 @@ Event-Scheduler is a modern web application designed to streamline event schedul
 - **Dynamic Scheduling**: Users can set their availability and schedule events easily.
 - **Admin Dashboard**: Manage users and their availability for efficient event planning.
 - **User-Friendly Interface**: Responsive design with seamless animations.
-- **Real-time Notifications**: Get updates about your events in real-time.
 - **Multi-User System**: Manage multiple users and their scheduling needs.
 - **Customizable Availability**: Set available days or times for events.
   
@@ -82,4 +81,9 @@ Event-Scheduler is a modern web application designed to streamline event schedul
     │   ├── package-lock.json
     │   ├── package.json
     │   └── routes
-    └── txtt
+
+##  Repository Structure
+
+
+
+
