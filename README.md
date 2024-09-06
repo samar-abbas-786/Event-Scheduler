@@ -82,7 +82,6 @@ Event-Scheduler is a modern web application designed to streamline event schedul
     │   ├── package.json
     │   └── routes
 
-##  Repository Structure
 
 
 
