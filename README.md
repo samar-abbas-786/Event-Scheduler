@@ -91,5 +91,30 @@ Ensure that you have the following installed:
 - npm (v6.x or above)
 - MongoDB (NoSQL database)
 
+###  Installation
 
+Build the project from source:
+
+1. Clone the Event-Scheduler repository:
+```sh
+❯ git clone https://github.com/samar-abbas-786/Event-Scheduler
+```
+
+2. Navigate to the project directory:
+```sh
+❯ cd Event-Scheduler
+```
+
+3. Install the required dependencies:
+```sh
+❯ npm install
+```
+
+###  Usage
+
+To run the project, execute the following command:
+
+```sh
+❯ npm start
+```
 
