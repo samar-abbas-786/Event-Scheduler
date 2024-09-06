@@ -81,8 +81,14 @@ Event-Scheduler is a modern web application designed to streamline event schedul
     │   ├── package-lock.json
     │   ├── package.json
     │   └── routes
+  ```
+#Getting Started
+##Prerequisites
+Ensure that you have the following installed:
 
-
+-Node.js (v14.x or above)
+-npm (v6.x or above)
+-MongoDB (NoSQL database)
 
 
 
